@@ -9,5 +9,14 @@ Native REPLI Themes refers to all WordPress themes that do not employ a page bui
 * Ella Theme 
 * Pegasus Theme 
 
+## Required Plugins 
+* Advanced Custom Fields (Pro)
+* REPLI ApartmentSync 
+* REPLI FloorPlan Manager (for SiteMap Functionality)
+* WP Shapere (for admin theming, content management and user restriction)
+* Locatoraid/ElfSight Integration (for Neighborhood Page Functionality)
+* Tracking Script Manager (for SEO)
+* Yoast SEO (for SEO)
+
 ### Contributors 
 Reliable Code, Kiran Nasim, Brooke Guy, Jzbonner, BigWave Development
